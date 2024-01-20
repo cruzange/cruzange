@@ -1,8 +1,8 @@
-# <![imagen de bash](bash.png)> Hola,mi nombre es Angelo Cristopher Cruz Faustino. ![Imagen saludando](saludar.png)
+# <![imagen de bash](bash.png)> Hola, mi nombre es Ángelo Cristopher Cruz Faustino. ![Imagen saludando](saludar.png)
 
 <h3 align="center">Soy amante del código, maestro del error, donde los bugs son solo insectos virtuales. Sudo, porque necesito permisos para brillar ya que en un mundo de ceros y unos, yo elijo ser uno. </h3>
 
-<p>📝 Soy un apasionado estudiante de programación actualmente cursando estudios universitarios. A lo largo de mi trayectoria académica he adquirido valiosos conocimientos y experiencia en el fascinante mundo del desarrollo de software. Mi compromiso con la excelencia y mi deseo constante de aprender me han permitido enfrentar los desafíos de este campo de manera efectiva.  📄 Durante mis estudios, trabajó en proyectos académicos para mejorar mis habilidades en programación y diseño de software. Me encanta aprender y estoy emocionado por explorar el mundo del desarrollo de software. <br><br>
+<p>📝 Un apasionado estudiante de programación actualmente cursando estudios universitarios. A lo largo de mi trayectoria académica he adquirido valiosos conocimientos y experiencia en el fascinante mundo del desarrollo de software. Mi compromiso con la excelencia y mi deseo constante de aprender me han permitido enfrentar los desafíos de este campo de manera efectiva.  📄 Durante mis estudios, trabajé en proyectos académicos para mejorar mis habilidades en programación y diseño de software. Me encanta aprender y estoy emocionado por explorar el mundo del desarrollo de software. <br><br>
 👋¡Bienvenido a mi repositorio de GitHub, donde comparto mi viaje de aprendizaje y contribuciones al emocionante universo de la programación! 🌐✨</p>
 
 <h3 align="left">Lenguajes y herramientas:</h3>
